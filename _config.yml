@@ -1,0 +1,11 @@
+# Site settings
+title: Matheus Bras | Compendium
+description: > # this means to ignore newlines until "baseurl:"
+  Matheus Bras' Blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://compendium.matheusbras.com.br" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+twitter_username: matheusbras_
+github_username: matheusbras
